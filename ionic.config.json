@@ -1,0 +1,7 @@
+{
+  "name": "ArtFervour",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
