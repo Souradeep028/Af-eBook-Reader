@@ -1,0 +1,26 @@
+.title2{
+    margin: 11rem auto auto auto;
+    font-family: 'Montserrat'; 
+    font-weight: 800;
+    font-size: 34px;
+    padding: 2rem 1.2rem 0rem 1.2rem;
+    text-align: center;
+    max-width: 24rem;
+}
+
+.access{
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.profile{
+    margin: 0 auto;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 4rem;
+    max-width: 25rem;
+}
